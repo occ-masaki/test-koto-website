@@ -41,13 +41,13 @@ export default function HomePage() {
         />
         <div className="absolute inset-0 bg-black/40"></div>
         <div className="relative z-10 text-center text-white max-w-4xl mx-auto px-4">
-          <h1 className="text-5xl md:text-7xl font-serif font-black mb-6 leading-tight">Welcome to Koto</h1>
+          <h1 className="text-5xl md:text-7xl font-serif font-black mb-6 leading-tight">Very Welcome to Koto</h1>
           <p className="text-xl md:text-2xl font-sans mb-8 leading-relaxed">
             Experience the Essence of Japanese Coffee Jelly
           </p>
           <Button
             size="lg"
-            className="bg-primary hover:bg-primary/90 text-primary-foreground font-sans font-semibold px-8 py-3 text-lg"
+            className="bg-orange-500 hover:bg-orange-600 text-white font-sans font-semibold px-8 py-3 text-lg"
           >
             Explore Our Menu
           </Button>
